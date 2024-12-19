@@ -61,7 +61,7 @@ fokus/
 ### **Passos**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/fokus.git
+   git clone https://github.com/ErnandesNeponuceno/javascript-css-fokus.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
